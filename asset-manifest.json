@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vinayakpalmur.github.io/csb-xfewpx/static/css/main.21cf743d.chunk.css",
+    "main.js": "https://vinayakpalmur.github.io/csb-xfewpx/static/js/main.2e15d494.chunk.js",
+    "main.js.map": "https://vinayakpalmur.github.io/csb-xfewpx/static/js/main.2e15d494.chunk.js.map",
+    "runtime-main.js": "https://vinayakpalmur.github.io/csb-xfewpx/static/js/runtime-main.fe353118.js",
+    "runtime-main.js.map": "https://vinayakpalmur.github.io/csb-xfewpx/static/js/runtime-main.fe353118.js.map",
+    "static/js/2.693a2f1e.chunk.js": "https://vinayakpalmur.github.io/csb-xfewpx/static/js/2.693a2f1e.chunk.js",
+    "static/js/2.693a2f1e.chunk.js.map": "https://vinayakpalmur.github.io/csb-xfewpx/static/js/2.693a2f1e.chunk.js.map",
+    "index.html": "https://vinayakpalmur.github.io/csb-xfewpx/index.html",
+    "static/css/main.21cf743d.chunk.css.map": "https://vinayakpalmur.github.io/csb-xfewpx/static/css/main.21cf743d.chunk.css.map",
+    "static/js/2.693a2f1e.chunk.js.LICENSE.txt": "https://vinayakpalmur.github.io/csb-xfewpx/static/js/2.693a2f1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe353118.js",
+    "static/js/2.693a2f1e.chunk.js",
+    "static/css/main.21cf743d.chunk.css",
+    "static/js/main.2e15d494.chunk.js"
+  ]
+}
